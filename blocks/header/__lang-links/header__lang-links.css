@@ -1,6 +1,3 @@
-@import url(./_ru/header__lang-links_ru.css);
-@import url(./_en/header__lang-links_en.css);
-
 .header__lang-links {
   font-size: 24px;
   line-height: 28px;
