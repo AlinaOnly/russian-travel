@@ -1,9 +1,10 @@
-.header__lang-link_en {
+.header__lang-link {
   text-decoration: none;
+  margin-right: 12px;
   color: #FFFFFF;
   transition: 0.4s ease;
 }
 
-.header__lang-link_en:hover {
+.header__lang-link:hover {
   opacity: 0.8;
 }

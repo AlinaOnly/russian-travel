@@ -1,16 +1,11 @@
-.header__lang-link_ru {
+.header__lang-link_active {
   text-decoration: underline;
-  margin-right: 12px;
   color: #FFFFFF;
   transition: 0.4s ease;
 }
 
 @media screen and (max-width: 380px) {
-  .header__lang-link_ru {
+  .header__lang-link_active {
     text-decoration: underline 2px;
   }
-}
-
-.header__lang-link_ru:hover {
-  opacity: 0.8;
 }
