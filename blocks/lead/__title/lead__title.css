@@ -14,30 +14,24 @@
   }
 }
 
-@media screen and (max-width: 599px) and (min-width: 500px) {
-  .lead__title {
-   font-size: 72px;
-   line-height: 72px;
-  }
-}
-
-@media screen and (max-width: 499px) and (min-width: 420px) {
+@media screen and (max-width: 700px) and (min-width: 500px) {
   .lead__title {
    font-size: 60px;
    line-height: 58px;
   }
 }
 
-@media screen and (max-width: 419px) and (min-width: 352px) {
+@media screen and (max-width: 500px) and (min-width: 400px) {
   .lead__title {
    font-size: 50px;
    line-height: 54px;
   }
 }
 
-@media screen and (max-width: 351px) and (min-width: 300px) {
+@media screen and (max-width: 400px) and (min-width: 300px) {
   .lead__title {
    font-size: 40px;
    line-height: 44px;
+   max-width: 288px;
   }
 }
